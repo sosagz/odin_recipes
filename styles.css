@@ -1,0 +1,17 @@
+* {
+    background-color: rgb(155, 155, 155);
+}
+
+h1 {
+    text-align: center;
+}
+
+.recipewrapper {
+    outline: 1.5px solid black;
+    padding: 5px;
+    margin: 150px;
+}
+
+.recipewrapper li a {
+    text-decoration: none;
+}
